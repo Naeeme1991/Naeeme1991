@@ -24,13 +24,13 @@ Passionate about creating intuitive and delightful experiences through user-cent
 ##
 ### Tools and Technologies
 
-![My Tools](https://skillicons.dev/icons?i=flutter,git,firebase,graphql,sentry,androidstudio,vscode&theme=dark)
+![My Tools](https://skillicons.dev/icons?i=postman,git,ps,npm,materialui,html,figma,css,vscode&theme=dark)
 
 ##
 ### Connect with me
 [![Connect with me](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/naeeme-moradi-199102018/)
 [![Connect with me](https://skillicons.dev/icons?i=stackoverflow&theme=dark)](https://stackoverflow.com/users/4145290/naeeme-moradi)
-[![Connect with me](https://skillicons.dev/icons?i=dribbble&theme=dark)](https://dribbble.com/naeememoradi)
+
 
 
 ##
