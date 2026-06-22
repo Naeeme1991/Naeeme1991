@@ -24,7 +24,7 @@ Passionate about creating intuitive and delightful experiences through user-cent
 ##
 ### Tools and Technologies
 
-![My Tools](https://skillicons.dev/icons?i=postman,git,ps,npm,materialui,html,figma,css,vscode&theme=dark)
+![My Tools](https://skillicons.dev/icons?i=postman,git,ps,ai,pr,ae,npm,materialui,html,figma,css,vscode&theme=dark)
 
 ##
 ### Connect with me
