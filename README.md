@@ -19,7 +19,7 @@ Passionate about creating intuitive and delightful experiences through user-cent
 ##
 ### Programming Languages
 
-![My Skills](https://skillicons.dev/icons?i=react,java,php,javascript&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=react,java,php,javascript,typescript, angular&theme=dark)
 
 ##
 ### Tools and Technologies
