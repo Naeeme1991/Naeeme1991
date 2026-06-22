@@ -13,7 +13,7 @@ Passionate about creating intuitive and delightful experiences through user-cent
 - 💬 Ask me about anything.
 - 📫 How to reach me:
 
-[![Firebase](https://img.shields.io/badge/Email-ffcb2c?style=flat-square&logo=gmail&logoColor=white&color=EA4335)](mailto:naeeme.moradi@email.com)
+[![Firebase](https://img.shields.io/badge/Email-ffcb2c?style=flat-square&logo=gmail&logoColor=white&color=EA4335)](mailto:naeeme.moradi@gmail.com)
 [![Firebase](https://img.shields.io/badge/Telegram-ffcb2c?style=flat-square&logo=telegram&logoColor=white&color=26A5E4)](https://t.me/naeememoradi)
 
 ##
