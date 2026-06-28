@@ -1,7 +1,7 @@
 <p align="center"><b> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></b></p>
 <p align="center"><h1 align="center"><samp> I am Naeeme Moradi </samp></h1></p>
 <p align="center"><h4 align="justify"><samp> a Product and UI Designer with over 10 years of experience in front-end development, product design, and graphic design.
-For more than 7 years, I’ve worked as both a designer and developer on web and mobile applications in the banking industry. I also served as the graphic designer for 17 successful and best-selling issues of Hamshahri magazine.
+For more than 7 years, I’ve worked as both a designer and developer on web and mobile applications in the banking industry. I also served as a graphic designer for 17 successful and best-selling issues of Hamshahri magazine.
 I have strong skills and extensive experience in Figma, Adobe XD, Sketch, and Adobe Photoshop.
 Thanks to my background in front-end development, I’m proficient in React-based prototyping. With a Master’s degree in Animation, I have a strong interest in UI animation and Visual design.
 Enthusiastic about design thinking, problem solving, and learning new design methodologies through hands-on testing and analysis.
