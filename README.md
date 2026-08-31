@@ -1,11 +1,11 @@
 <p align="center"><b> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></b></p>
 <p align="center"><h1 align="center"><samp> I am Naeeme Moradi </samp></h1></p>
-<p align="center"><h4 align="justify"><samp> a Product and UI Designer with over 10 years of experience in front-end development, product design, and graphic design.
-For more than 7 years, I’ve worked as both a designer and developer on web and mobile applications in the banking industry. I also served as a graphic designer for 17 successful and best-selling issues of Hamshahri magazine.
-I have strong skills and extensive experience in Figma, Adobe XD, Sketch, and Adobe Photoshop.
-Thanks to my background in front-end development, I’m proficient in React-based prototyping. With a Master’s degree in Animation, I have a strong interest in UI animation and Visual design.
-Enthusiastic about design thinking, problem solving, and learning new design methodologies through hands-on testing and analysis.
-Passionate about creating intuitive and delightful experiences through user-centered design and animation. </samp></h4></p>
+<p align="center"><h4 align="justify"><samp>A UI/UX & Product Designer with 10+ years of experience across front-end development, product design, and visual design
+With the last 7+ focused on designing complex banking and fintech products.
+As a Design Lead on Bsun, a full-featured mobile banking app, I led a team of three through a year-long project: running user research and competitor analysis, building a complete interactive prototype, and working hand-in-hand with development as requirements evolved. The result was a 60% drop in in-person branch visits — and a team bonus in recognition of the impact.
+Earlier, redesigning the core online banking flows at Mellat Bank contributed to a 40% increase in customers using the platform. I also bring a distinct visual design foundation from years as a graphic designer for Hamshahri, one of Iran's top magazines, and a Master's degree in Animation that shapes how I think about UI motion and micro-interactions.
+What I bring to a team: an end-to-end design process (research → wireframes → prototyping → design systems), a technical background that makes handoff to engineering fast and painless, and a habit of measuring success in real outcomes, not just polished screens.
+Currently open to remote UI/UX and Product Design roles. </samp></h4></p>
 
 - 🔭 I’m currently working on financial app projects.
 - 🌱 I’m currently fluent in English speaking.
