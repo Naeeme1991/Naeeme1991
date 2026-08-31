@@ -7,9 +7,10 @@ Earlier, redesigning the core online banking flows at Mellat Bank contributed to
 What I bring to a team: an end-to-end design process (research → wireframes → prototyping → design systems), a technical background that makes handoff to engineering fast and painless, and a habit of measuring success in real outcomes, not just polished screens.
 Currently open to remote UI/UX and Product Design roles. </samp></h4></p>
 
-- 🔭 I’m currently working on financial app projects.
-- 🌱 I’m currently fluent in English speaking.
-- 🚀 Supporting the growth of the React community.
+- 🎨 Currently designing end-to-end UI/UX for fintech products, from research to prototype.
+- 🎬 Exploring UI motion & micro-interaction design, backed by a Master's in Animation.
+- 🤝 Open to remote UI/UX & Product Design opportunities.
+- 🌱 Fluent in speaking English.
 - 💬 Ask me about anything.
 - 📫 How to reach me:
 
