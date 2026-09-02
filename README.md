@@ -12,7 +12,7 @@ Currently open to remote UI/UX and Product Design roles. </samp></h4></p>
 - 🤝 Open to remote UI/UX & Product Design opportunities.
 - 🌱 Fluent in speaking English.
 - 💬 Ask me about anything.
-- 📫 How to reach me:
+- 📫 How to reach me :
 
 [![Firebase](https://img.shields.io/badge/Email-ffcb2c?style=flat-square&logo=gmail&logoColor=white&color=EA4335)](mailto:naeeme.moradi@gmail.com)
 [![Firebase](https://img.shields.io/badge/Telegram-ffcb2c?style=flat-square&logo=telegram&logoColor=white&color=26A5E4)](https://t.me/naeememoradi)
